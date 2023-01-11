@@ -2,16 +2,38 @@ body, html {
     height: 100%;
     margin: 0;
   }
-  
-  .bg {
+   
+   .bg { 
     /* The image used */
-    background-image: url("img/legwax.jpg");
+     background-image: url("img/legwax.jpg"); 
   
-    /* Full height */
-    height: 100%; 
+     /* Full height  */
+     height: 90%;  
   
     /* Center and scale the image nicely */
-    background-position: center;
+     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  } 
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translate(-50%, -50%);
   }
+  /* .section2{
+    text-align: center;
+  } */
+  .section2{
+    width: 60%;
+    margin:auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+/* img{
+height:100%;
+background-position:center;
+background-repeat: no-repeat;
+background-size: cover;
+  } */
