@@ -30,7 +30,10 @@ body, html {
     text-align: center;
     margin-top: 10px;
   }
-
+form{
+  margin-top: 45px;
+  margin:100px
+}
 /* img{
 height:100%;
 background-position:center;
