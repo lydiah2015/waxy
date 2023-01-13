@@ -54,3 +54,34 @@ background-size: cover;
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  .part1{
+    margin:auto;
+    width:90%;
+    margin-top:5px;
+    text-align: right;
+  }
+  .part2{
+    margin-top:auto;
+    width: 40%;
+    margin-left:50%;
+    margin-bottom: 5px;
+
+  }
+  #btnPrice{
+    background-color: white;
+  }
+#btnPrice:hover{
+  background-color: black;
+}
+.lip{
+  margin:auto; 
+  width:20%;
+  height:30%;
+  margin-bottom:105%;
+  margin-left:5%;
+  /* background-position: center; */
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
