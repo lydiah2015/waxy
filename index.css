@@ -18,7 +18,7 @@ body, html {
   .centered {
     position: absolute;
     top: 50%;
-    left: 15%;
+    left: 30%;
     transform: translate(-50%, -50%);
   }
   /* .section2{
@@ -43,14 +43,14 @@ background-size: cover;
 
   .wax{
     background-image: url(img/wax.jpg);
-    height: 40%;  
+    height: 60%;  
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   .contact {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
